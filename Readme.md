@@ -71,6 +71,6 @@ Pull Requests are welcome! ⭐
 
 ## 📩 Connect with Me
 - [GitHub](https://github.com/passionate-coder26)
-- [LinkedIn](www.linkedin.com/in/abhiramnair436)
+- [LinkedIn](https://www.linkedin.com/in/abhiramnair436)
 
 ---
